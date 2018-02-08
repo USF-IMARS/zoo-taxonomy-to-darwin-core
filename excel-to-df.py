@@ -70,7 +70,9 @@ for sheet_name in xl.sheet_names:
             volume_sample_water=df.iloc[5,3],
             volume_filtered=df.iloc[5,0],
             datetime=sample_datetime,
-            mesh_size=df.iloc[2,5].replace("mesh size:", "").strip()
+            mesh_size=df.iloc[2,5].replace("mesh size:", "").strip(),
+            folson=df.iloc[5,1],
+            split_size=df.iloc[5,2]
 
             # === drag_type
             # TODO:
