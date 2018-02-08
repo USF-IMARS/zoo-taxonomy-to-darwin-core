@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# loads data from the "compiled" excel file
+# into a dict.
 
 from datetime import datetime
 import math
