@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # loads data from the "compiled" excel file
-# into a dict with species subsamples in a dataframe.
+# into a single "long" pandas dataframe.
+# Based on load-test.py
 
 from datetime import datetime
 import math
@@ -79,6 +80,8 @@ for sheet_name in xl.sheet_names:
             "classification", "n_ind_aliquot", "NaN", "tot_ind_sample", "NaN", "n_ind_per_m3", "sub_tot_g"
         ]
         sample['subsamples'].columns = COL_NAMES
+
+        sample['subsamples'] = sample['subsamples'].assign(counted_aliquot=sample['counted_aliquot'])
 
         # # load sample rows until we run out of rows
         # sample['subsamples'] = []
