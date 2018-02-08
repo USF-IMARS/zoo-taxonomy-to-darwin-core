@@ -6,8 +6,8 @@
 from datetime import datetime
 import math
 
+from matplotlib import pyplot
 import pandas
-import pprint
 
 xl = pandas.ExcelFile("data/compiled_zoo_taxonomy_Jaimie_31JAN2018.xlsx")
 
@@ -84,22 +84,8 @@ for sheet_name in xl.sheet_names:
     else:
         print("sheet skipped")
 
-# print(samples)
+print(samples.columns)
 
-samples.hist(column=[
-    # 'classification',
-    # 'n_ind_aliquot',
-    #'NaN',
-    # 'tot_ind_sample'
-    #'NaN',
-    # 'n_ind_per_m3',
-    # 'sub_tot_g',
-    # 'counted_aliquot',
-    'volume_sample_water',
-    # 'volume_filtered',
-    # 'datetime',
-    # 'mesh_size'
-])
-
-# test...
-# pandas.DataFrame([1,2,3,4]).hist()
+# example usage of data:
+samples.groupby(by='classification').count()['counted_aliquot'].hist()
+pyplot.show()
