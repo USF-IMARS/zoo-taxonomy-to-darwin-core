@@ -44,6 +44,9 @@ for sheet_name in xl.sheet_names:
         # === lat / lon
         # TODO: get lat/lon from station name (b/c not in most sheets
 
+        # mesh size: 500µm
+        sample['mesh_size'] = df.iloc[2,5].replace("mesh size:", "").strip()
+
         # === drag_type
         # sample["drag_type"] # this looks like:
         # Type of trawl Horiz (  )  Oblic (  )  Vert (  )
