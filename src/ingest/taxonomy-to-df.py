@@ -14,6 +14,8 @@ xl = pandas.ExcelFile("data/1_raw/compiled_zoo_taxonomy_Jaimie_31JAN2018.xlsx")
 
 samples = pandas.DataFrame()
 for sheet_name in xl.sheet_names:
+    station = sheet_name[:2]
+    cruise_id = sheet_name[2:]
     EXCLUDED_SHEETS = [
         "Samples for see", "PLANTILLA", "Sheet1",
         "MR1115500"  # TODO: this has no date?!?
@@ -21,12 +23,6 @@ for sheet_name in xl.sheet_names:
     STATIONS = ["MR", "LK", "WS"]
     print("=== {}".format(sheet_name))
     if sheet_name not in EXCLUDED_SHEETS:
-        station = sheet_name[:2]
-        cruise_id = sheet_name[2:]
-        sample = {
-            "station": station,
-            "cruise_id": cruise_id
-        }
         if station not in STATIONS:
             raise ValueError("unknown station name for sheet '{}'".format(sheet_name))
         df = xl.parse(
@@ -73,8 +69,9 @@ for sheet_name in xl.sheet_names:
             datetime=sample_datetime,
             mesh_size=df.iloc[2,5].replace("mesh size:", "").strip(),
             folson=df.iloc[5,1],
-            split_size=df.iloc[5,2]
-
+            split_size=df.iloc[5,2],
+            station=station,
+            cruise_id=cruise_id
             # === drag_type
             # TODO:
             # sample["drag_type"] # this looks like:
