@@ -17,8 +17,7 @@ for sheet_name in xl.sheet_names:
     station = sheet_name[:2]
     cruise_id = sheet_name[2:]
     EXCLUDED_SHEETS = [
-        "Samples for see", "PLANTILLA", "Sheet1",
-        "MR1115500"  # TODO: this has no date?!?
+        "Samples for see", "PLANTILLA", "Sheet1"
     ]
     STATIONS = ["MR", "LK", "WS"]
     print("=== {}".format(sheet_name))
