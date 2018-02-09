@@ -14,7 +14,7 @@ Scripts from [IOOS data workshop 2018](https://github.com/ioos/BioData-Training-
         9. volume_filtered
         10. date
         11. mesh_size
-        12. Folson
+        12. folson
         13. split size
 2. `WSMasterSampleLog.xlsx` - CTD water samples for all stations
     1. Rank
@@ -85,3 +85,7 @@ Scripts from [IOOS data workshop 2018](https://github.com/ioos/BioData-Training-
 * "Event" is used for cruise, station, sample, subsample from (3)?
 * "ExtendedMeasurementOrFacts" are added from (2), (3)
 * "Occurence Extension" is used for each species from (1)
+
+### DwC alignment table
+Mapping the variables above to Darwin Core is outlined in [this spreadsheet](https://docs.google.com/spreadsheets/d/13jiEv32KN0AcX6ppZOSt6kZboKRG_ZxmC3VhnHSXEhE/edit?usp=sharing).
+In this sheet the `raw data item id` is reference to numbered lists above.
