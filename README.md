@@ -58,7 +58,7 @@ Scripts from [IOOS data workshop 2018](https://github.com/ioos/BioData-Training-
     1. Turner C7 CDOM Raw Fluoresence Units
     1. Turner C7 Turbidity Raw Fluoresence Units
 
-3. `zooplankton_consolidated.xlsx` - details of sampling methods for each sample in (1)
+3. `zooplankton_consolidated.xlsx` - details of sampling methods for each sample in (1) | NOTE: data from this doesn't necessarily need to be included b/c values in (1) use these values in calculations
     1. global metadata:
         1. Area of the net(m^2)
         2. Net diameter (mm)
