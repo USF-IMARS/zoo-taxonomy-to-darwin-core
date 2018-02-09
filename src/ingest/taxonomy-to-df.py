@@ -5,11 +5,12 @@
 
 from datetime import datetime
 import math
+import pickle
 
 from matplotlib import pyplot
 import pandas
 
-xl = pandas.ExcelFile("data/compiled_zoo_taxonomy_Jaimie_31JAN2018.xlsx")
+xl = pandas.ExcelFile("data/1_raw/compiled_zoo_taxonomy_Jaimie_31JAN2018.xlsx")
 
 samples = pandas.DataFrame()
 for sheet_name in xl.sheet_names:
@@ -89,5 +90,10 @@ for sheet_name in xl.sheet_names:
 print(samples.columns)
 
 # example usage of data:
-samples.groupby(by='classification').count()['counted_aliquot'].hist()
-pyplot.show()
+# samples.groupby(by='classification').count()['counted_aliquot'].hist()
+# pyplot.show()
+
+samples.to_csv("data/2a_csv/taxonomy.csv")
+
+with open('data/2b_pickles/taxonomy-df.pickle', 'wb') as f:
+    pickle.dump(samples, f)
