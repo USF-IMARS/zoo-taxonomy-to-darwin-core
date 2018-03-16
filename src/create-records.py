@@ -45,11 +45,11 @@ with \
             "lon": 24.53862793
         }
     }
-    events = pandas.DataFrame()
+    occurrences = pandas.DataFrame()
     institution_code = "USF_IMaRS"
     collection_code = "compiled_zoo_taxonomy_jaimie"
     catalog_number = "2018_01_31"
-    events = events.assign(
+    occurrences = occurrences.assign(
         occurrenceID = [
             ':'.join([
                 "urn:catalog",
@@ -65,7 +65,7 @@ with \
         scientificName=taxonomy_df["classification"],
         scientificNameID="TODO: worms lookup", #taxonomy_df["classification"],
     )
-    events = events.assign(
+    occurrences = occurrences.assign(
         basisOfRecord="HumanObservation",
         collectionCode = collection_code,
         catalogNumber = catalog_number,
@@ -73,4 +73,4 @@ with \
         institutionCode = institution_code
     )
 
-    events.to_csv("data/3_records/occurences.csv")
+    occurrences.to_csv("data/3_records/occurences.csv")
