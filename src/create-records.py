@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-# creates DwC record files from dataframes
+"""
+creates DwC record files from dataframes
+"""
 import pickle
 
 import pandas
