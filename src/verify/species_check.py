@@ -16,12 +16,17 @@ with open("data/2b_pickles/taxonomy-df.pickle", 'rb') as taxa_file:
     print("checking these species w/ WoRMS: {}".format(
         taxonomy_df["classification"])
     )
+
+    # TODO: map "classification" to the clarified names in sp.csv
+
     # check vs WoRMS
     # based on http://www.marinespecies.org/aphia.php?p=webservice&type=python
     cl = Client('http://www.marinespecies.org/aphia.php?p=soap&wsdl=1')
     scinames = cl.factory.create('scientificnames')
     scinames["_arrayType"] = "string[]"
-    scinames["scientificname"] = taxonomy_df["classification"]
+    scinames["scientificname"] = list(taxonomy_df["classification"])
+
+    # TODO: break into len=50 chunks b/c of API limit
 
     array_of_results_array = cl.service.matchAphiaRecordsByNames(
         scinames,
