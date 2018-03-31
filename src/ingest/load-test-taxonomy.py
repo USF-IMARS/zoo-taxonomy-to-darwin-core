@@ -8,7 +8,7 @@ import math
 import pandas
 import pprint
 
-xl = pandas.ExcelFile("data/1raw/compiled_zoo_taxonomy_Jaimie_31JAN2018.xlsx")
+xl = pandas.ExcelFile("data/1_raw/compiled_zoo_taxonomy_Jaimie_31JAN2018.xlsx")
 
 samples = []
 for sheet_name in xl.sheet_names:
