@@ -2,6 +2,8 @@ Scripts from [IOOS data workshop 2018](https://github.com/ioos/BioData-Training-
 
 The inputs are described in the **data** section below, the output should align with the standards outlined [here](http://rs.gbif.org/); a similar example of this format can be accessed [via DwC-A button here](http://ipt.vliz.be/eurobis/resource?r=deltaresbenthos).
 
+The resulting output will be uploaded to OBIS via one of the [IPT](https://github.com/gbif/ipt) nodes listed [here](http://ipt.iobis.org/) (Caribbean?).
+
 ## data
 1. `compiled_zoo_taxonomy_Jaimie_31JAN2018.xlsx` - species counts for each sampling
     1. (sheet name) == station & cruise ID
