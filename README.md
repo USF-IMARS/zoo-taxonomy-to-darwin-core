@@ -4,6 +4,8 @@ The inputs are described in the **data** section below, the output should align 
 
 The resulting output will be uploaded to OBIS via one of the [IPT](https://github.com/gbif/ipt) nodes listed [here](http://ipt.iobis.org/) (Caribbean?).
 
+Some potentially useful tools: [obistools](https://github.com/iobis/obistools).
+
 ## data
 1. `compiled_zoo_taxonomy_Jaimie_31JAN2018.xlsx` - species counts for each sampling
     1. (sheet name) == station & cruise ID
