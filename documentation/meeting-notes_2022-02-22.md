@@ -10,6 +10,7 @@ One occurrence row for each number of species found in each sample.
 * event is sampling event in event table - env data goes there or in MoF if necessary
 * reference "sampling protocol" in the event file so that all the information doesn't need to be stated in the file
 * one big cruise event, one sampling event for each, aliquot count events are not split up into individual events because they do not have unique MoF data for each 
+* for the event Lat/lon we should use `LAT in` and `LON in` - these are the exact points for when the instrument entered the water
 
 # TODO
 * Need to define protocol or else find a reference for the std protocol being used. 
@@ -23,5 +24,6 @@ If the protocol is not standard then we should consider publishing to a journal 
 
 ## suggested changes for the ship sampling event sheet:
 1. units should be in brackets or else in their own column
-2. question: what is difference in lat/lon in the lookup table at top vs `LAT in` and `LON in` rows
+2. ~~question: what is difference in lat/lon in the lookup table at top vs `LAT in` and `LON in` rows~~
 3. need short description of each column/row 
+4. what is the depth?
