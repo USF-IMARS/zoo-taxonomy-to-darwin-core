@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
-# loads data from the "compiled" excel file
-# into a single "long" pandas dataframe.
-# Based on load-test.py
+"""
+Loads data from the "compiled" excel file into a single "long" pandas dataframe.
+This script deals with some weirdness in the "raw" data by skipping sheets,
+figuring out what row to start on, etc.
+The final dataframe is saved as a `.pickle` file.
+Based on load-test.py
+"""
 
 from datetime import datetime
 import math
