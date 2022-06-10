@@ -1,18 +1,27 @@
 #!/usr/bin/env python3
 """
-creates DwC record files from dataframes
+Creates DwC occurrence-core `occurrences.csv` file from `.pickle` files that have been previously generated.
+The `.pickle` files used are:
+
+filepath                                  | created by `/src/...`  | how it is used
+------------------------------------------|-------------------------------|----------------------
+`data/2b_pickles/sample-details-df.pickle`|        ?                      | data is not (yet) used
+`data/2b_pickles/taxonomy-df.pickle`      | `/verify/species_check.py`    | this is where occurrences come from
+`data/2b_pickles/water-samples-df.pickle` |         ?                     | data is not (yet) used
 """
+
 import pickle
 
 import pandas
 
 with \
-    open("data/2b_pickles/sample-details-df.pickle", 'rb') as sample_file,\
-    open("data/2b_pickles/taxonomy-df.pickle",       'rb') as taxa_file,  \
-    open("data/2b_pickles/water-samples-df.pickle",  'rb') as water_file  :
-    sample_detail_df = pickle.load(sample_file)
+#     open("data/2b_pickles/sample-details-df.pickle", 'rb') as sample_file,\
+#     open("data/2b_pickles/water-samples-df.pickle",  'rb') as water_file  \
+    open("data/2b_pickles/taxonomy-df.pickle",       'rb') as taxa_file   :
+#     sample_detail_df = pickle.load(sample_file)
+#     water_sample_df  = pickle.load(water_file)
     taxonomy_df      = pickle.load(taxa_file)
-    water_sample_df  = pickle.load(water_file)
+    
 
     # TODO: (???) join on:
     # taxa:
