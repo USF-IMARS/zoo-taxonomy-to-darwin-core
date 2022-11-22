@@ -14,6 +14,8 @@ Year | data status & notes                                                      
 ## data processing steps
 1. collect the data using the sheets (TODO: link the raw data collection spreadsheets here
 2. run the relevant scripts to convert the collection sheets into a DwC archive
+    - [Zooplankton Ingestion](https://github.com/sebastiandig/obis_zooplankton_setup)
+      - Method for ingesting data and metadata, and conversion to DarwinCore
 3. upload to OBIS via one of the [IPT](https://github.com/gbif/ipt) nodes listed [here](http://ipt.iobis.org/) (Caribbean?).
 
 ## additional links
