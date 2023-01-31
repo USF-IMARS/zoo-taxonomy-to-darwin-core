@@ -10,6 +10,8 @@ Year | data status & notes                                                      
 2021 | Raw Data is being entered for 500 um and 200 um (currently no/few 64 um examined, only partial year)   | Currently in a box reop  | UNPUBLISHED
 2022 | Some collected. Samples are not processed.                                          | .                        | .
 
+* zooplankton 2016-2017 was identified by microscopy done by Jaime
+* zooplankton 2018-2021 was identified by microscopy done by Natalia
 
 ## data processing steps
 1. collect the data using the sheets (TODO: link the raw data collection spreadsheets here
