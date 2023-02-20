@@ -1,0 +1,96 @@
+eventID,orig_term,measurementValue,measurementType,measurementAccuracy,measurementUnit,measurementTypeID,measurementUnitID
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,distance_m,792.82,Length of sampling track,,metres,http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,net_size,0.5,Sampling device aperture diameter,,metres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100012/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,net_area,0.785398163397448,Sampling device aperture surface area,,per square metre,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100017/,http://vocab.nerc.ac.uk/collection/P06/current/PMSQ/
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,flowmeter_in,0,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,flowmeter_out,3236,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,dillution,400,,,milliliter,,
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,dillution_factor,80,,,,,
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,split_amount,0,Sub-sampling coefficient,,decimal,http://vocab.nerc.ac.uk/collection/P01/current/SSAMPC01/,
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,splits_analyzed,0,,,,,
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,volume_filt_cubic_m,155.669842976191,Sample volume (filtration) by measuring cylinder,,per cubic metre,http://vocab.nerc.ac.uk/collection/P01/current/VOLFMCXX/,http://vocab.nerc.ac.uk/collection/P06/current/PCUM/
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,pipette_vol_m_l,5,,,milliliter,,
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,ind_m3,0.342605428987876,Abundance,,Number per cubic metre,http://vocab.nerc.ac.uk/collection/S06/current/S0600002/,http://vocab.nerc.ac.uk/collection/P06/current/UPMM/
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,number_ind_sample,53.3333333333333,Count (in assayed sample) of biological entity specified elsewhere,,Count of Biological Entity,http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01/,http://vocab.nerc.ac.uk/collection/P09/current/OCNT/
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,tow_time_min,5,Sample Duration,,Minutes,http://vocab.nerc.ac.uk/collection/P01/current/AZDRZZ01/,http://vocab.nerc.ac.uk/collection/P06/current/UMIN/
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,ship_speed_knots,1.5,Speed of towing platform,,Knots (nautical miles per hour),http://vocab.nerc.ac.uk/collection/P01/current/TOWSPEED/,http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,split_size,0.5,,,,,
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,tow_speed_m_sec,2.64273333333333,Speed,,Metres per second,http://vocab.nerc.ac.uk/collection/S06/current/S0600152/,http://vocab.nerc.ac.uk/collection/P06/current/UVAA/
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,mesh,500,Sampling net mesh size,,Micrometres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100015/,http://vocab.nerc.ac.uk/collection/P06/current/UMIC/
+IMaRS_MBON_zooplankton:WS17275:stnWS:500um:2017-10-10T22:10:00,microscopy,microscopy,microscopy,,,http://vocab.nerc.ac.uk/collection/S04/current/S0419/,
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,distance_m,734.755,Length of sampling track,,metres,http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,net_size,0.5,Sampling device aperture diameter,,metres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100012/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,net_area,0.785398163397448,Sampling device aperture surface area,,per square metre,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100017/,http://vocab.nerc.ac.uk/collection/P06/current/PMSQ/
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,flowmeter_in,0,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,flowmeter_out,2999,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,dillution,1000,,,milliliter,,
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,dillution_factor,200,,,,,
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,split_amount,0,Sub-sampling coefficient,,decimal,http://vocab.nerc.ac.uk/collection/P01/current/SSAMPC01/,
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,splits_analyzed,0,,,,,
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,volume_filt_cubic_m,144.268806886773,Sample volume (filtration) by measuring cylinder,,per cubic metre,http://vocab.nerc.ac.uk/collection/P01/current/VOLFMCXX/,http://vocab.nerc.ac.uk/collection/P06/current/PCUM/
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,pipette_vol_m_l,5,,,milliliter,,
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,ind_m3,3.23470247475549,Abundance,,Number per cubic metre,http://vocab.nerc.ac.uk/collection/S06/current/S0600002/,http://vocab.nerc.ac.uk/collection/P06/current/UPMM/
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,number_ind_sample,466.666666666667,Count (in assayed sample) of biological entity specified elsewhere,,Count of Biological Entity,http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01/,http://vocab.nerc.ac.uk/collection/P09/current/OCNT/
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,tow_time_min,4.83,Sample Duration,,Minutes,http://vocab.nerc.ac.uk/collection/P01/current/AZDRZZ01/,http://vocab.nerc.ac.uk/collection/P06/current/UMIN/
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,ship_speed_knots,1.5,Speed of towing platform,,Knots (nautical miles per hour),http://vocab.nerc.ac.uk/collection/P01/current/TOWSPEED/,http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,split_size,0.5,,,,,
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,tow_speed_m_sec,2.53538647342995,Speed,,Metres per second,http://vocab.nerc.ac.uk/collection/S06/current/S0600152/,http://vocab.nerc.ac.uk/collection/P06/current/UVAA/
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,mesh,500,Sampling net mesh size,,Micrometres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100015/,http://vocab.nerc.ac.uk/collection/P06/current/UMIC/
+IMaRS_MBON_zooplankton:SV18067:stnLK:500um:2018-03-09T15:03:00,microscopy,microscopy,microscopy,,,http://vocab.nerc.ac.uk/collection/S04/current/S0419/,
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,distance_m,1011.85,Length of sampling track,,metres,http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,net_size,0.5,Sampling device aperture diameter,,metres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100012/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,net_area,0.785398163397448,Sampling device aperture surface area,,per square metre,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100017/,http://vocab.nerc.ac.uk/collection/P06/current/PMSQ/
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,flowmeter_in,0,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,flowmeter_out,4130,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,dillution,1000,,,milliliter,,
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,dillution_factor,200,,,,,
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,split_amount,,Sub-sampling coefficient,,decimal,http://vocab.nerc.ac.uk/collection/P01/current/SSAMPC01/,
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,splits_analyzed,0,,,,,
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,volume_filt_cubic_m,198.676282908427,Sample volume (filtration) by measuring cylinder,,per cubic metre,http://vocab.nerc.ac.uk/collection/P01/current/VOLFMCXX/,http://vocab.nerc.ac.uk/collection/P06/current/PCUM/
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,pipette_vol_m_l,5,,,milliliter,,
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,ind_m3,0.335554227664881,Abundance,,Number per cubic metre,http://vocab.nerc.ac.uk/collection/S06/current/S0600002/,http://vocab.nerc.ac.uk/collection/P06/current/UPMM/
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,number_ind_sample,66.6666666666667,Count (in assayed sample) of biological entity specified elsewhere,,Count of Biological Entity,http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01/,http://vocab.nerc.ac.uk/collection/P09/current/OCNT/
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,tow_time_min,5,Sample Duration,,Minutes,http://vocab.nerc.ac.uk/collection/P01/current/AZDRZZ01/,http://vocab.nerc.ac.uk/collection/P06/current/UMIN/
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,ship_speed_knots,1,Speed of towing platform,,Knots (nautical miles per hour),http://vocab.nerc.ac.uk/collection/P01/current/TOWSPEED/,http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,split_size,0.5,,,,,
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,tow_speed_m_sec,3.37283333333333,Speed,,Metres per second,http://vocab.nerc.ac.uk/collection/S06/current/S0600152/,http://vocab.nerc.ac.uk/collection/P06/current/UVAA/
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,mesh,500,Sampling net mesh size,,Micrometres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100015/,http://vocab.nerc.ac.uk/collection/P06/current/UMIC/
+IMaRS_MBON_zooplankton:WS18285:stnLK:500um:2018-10-13T08:10:00,microscopy,microscopy,microscopy,,,http://vocab.nerc.ac.uk/collection/S04/current/S0419/,
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,distance_m,244.755,Length of sampling track,,metres,http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,net_size,0.5,Sampling device aperture diameter,,metres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100012/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,net_area,0.785398163397448,Sampling device aperture surface area,,per square metre,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100017/,http://vocab.nerc.ac.uk/collection/P06/current/PMSQ/
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,flowmeter_in,0,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,flowmeter_out,999,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,dillution,400,,,milliliter,,
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,dillution_factor,80,,,,,
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,split_amount,,Sub-sampling coefficient,,decimal,http://vocab.nerc.ac.uk/collection/P01/current/SSAMPC01/,
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,splits_analyzed,0,,,,,
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,volume_filt_cubic_m,48.0575318705856,Sample volume (filtration) by measuring cylinder,,per cubic metre,http://vocab.nerc.ac.uk/collection/P01/current/VOLFMCXX/,http://vocab.nerc.ac.uk/collection/P06/current/PCUM/
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,pipette_vol_m_l,5,,,milliliter,,
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,ind_m3,0.554890474576961,Abundance,,Number per cubic metre,http://vocab.nerc.ac.uk/collection/S06/current/S0600002/,http://vocab.nerc.ac.uk/collection/P06/current/UPMM/
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,number_ind_sample,26.6666666666667,Count (in assayed sample) of biological entity specified elsewhere,,Count of Biological Entity,http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01/,http://vocab.nerc.ac.uk/collection/P09/current/OCNT/
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,tow_time_min,5,Sample Duration,,Minutes,http://vocab.nerc.ac.uk/collection/P01/current/AZDRZZ01/,http://vocab.nerc.ac.uk/collection/P06/current/UMIN/
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,ship_speed_knots,1.5,Speed of towing platform,,Knots (nautical miles per hour),http://vocab.nerc.ac.uk/collection/P01/current/TOWSPEED/,http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,split_size,0.5,,,,,
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,tow_speed_m_sec,0.81585,Speed,,Metres per second,http://vocab.nerc.ac.uk/collection/S06/current/S0600152/,http://vocab.nerc.ac.uk/collection/P06/current/UVAA/
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,mesh,500,Sampling net mesh size,,Micrometres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100015/,http://vocab.nerc.ac.uk/collection/P06/current/UMIC/
+IMaRS_MBON_zooplankton:WS18351:stn9B:500um:2018-12-19T01:12:00,microscopy,microscopy,microscopy,,,http://vocab.nerc.ac.uk/collection/S04/current/S0419/,
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,distance_m,1135.575,Length of sampling track,,metres,http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,net_size,0.5,Sampling device aperture diameter,,metres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100012/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,net_area,0.785398163397448,Sampling device aperture surface area,,per square metre,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100017/,http://vocab.nerc.ac.uk/collection/P06/current/PMSQ/
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,flowmeter_in,0,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,flowmeter_out,4635,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,dillution,1000,,,milliliter,,
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,dillution_factor,200,,,,,
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,split_amount,,Sub-sampling coefficient,,decimal,http://vocab.nerc.ac.uk/collection/P01/current/SSAMPC01/,
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,splits_analyzed,0,,,,,
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,volume_filt_cubic_m,222.969629850014,Sample volume (filtration) by measuring cylinder,,per cubic metre,http://vocab.nerc.ac.uk/collection/P01/current/VOLFMCXX/,http://vocab.nerc.ac.uk/collection/P06/current/PCUM/
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,pipette_vol_m_l,5,,,milliliter,,
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,ind_m3,1.19597752772898,Abundance,,Number per cubic metre,http://vocab.nerc.ac.uk/collection/S06/current/S0600002/,http://vocab.nerc.ac.uk/collection/P06/current/UPMM/
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,number_ind_sample,266.666666666667,Count (in assayed sample) of biological entity specified elsewhere,,Count of Biological Entity,http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01/,http://vocab.nerc.ac.uk/collection/P09/current/OCNT/
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,tow_time_min,2,Sample Duration,,Minutes,http://vocab.nerc.ac.uk/collection/P01/current/AZDRZZ01/,http://vocab.nerc.ac.uk/collection/P06/current/UMIN/
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,ship_speed_knots,1.5,Speed of towing platform,,Knots (nautical miles per hour),http://vocab.nerc.ac.uk/collection/P01/current/TOWSPEED/,http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,split_size,0.5,,,,,
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,tow_speed_m_sec,9.463125,Speed,,Metres per second,http://vocab.nerc.ac.uk/collection/S06/current/S0600152/,http://vocab.nerc.ac.uk/collection/P06/current/UVAA/
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,mesh,200,Sampling net mesh size,,Micrometres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100015/,http://vocab.nerc.ac.uk/collection/P06/current/UMIC/
+IMaRS_MBON_zooplankton:WS20230:stnLK:200um:2020-08-19T12:08:00,microscopy,microscopy,microscopy,,,http://vocab.nerc.ac.uk/collection/S04/current/S0419/,
