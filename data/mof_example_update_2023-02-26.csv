@@ -1,0 +1,86 @@
+occurrenceID,eventID,measurementValue,measurementType,measurementAccuracy,measurementUnit,measurementTypeID,measurementUnitID
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,247.205,Length of sampling track,,metres,http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,0.5,Sampling device aperture diameter,,metres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100012/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,0.785398163397448,Sampling device aperture surface area,,per square metre,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100017/,http://vocab.nerc.ac.uk/collection/P06/current/PMSQ/
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,0,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,1009,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,500,,,milliliter,,
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,100,,,,,
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,0,Sub-sampling coefficient,,decimal,http://vocab.nerc.ac.uk/collection/P01/current/SSAMPC01/,
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,0,,,,,
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,48.5385882456665,Sample volume (filtration) by measuring cylinder,,per cubic metre,http://vocab.nerc.ac.uk/collection/P01/current/VOLFMCXX/,http://vocab.nerc.ac.uk/collection/P06/current/PCUM/
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,5,,,milliliter,,
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,5,Sample Duration,,Minutes,http://vocab.nerc.ac.uk/collection/P01/current/AZDRZZ01/,http://vocab.nerc.ac.uk/collection/P06/current/UMIN/
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,1.5,Speed of towing platform,,Knots (nautical miles per hour),http://vocab.nerc.ac.uk/collection/P01/current/TOWSPEED/,http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,0.5,,,,,
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,0.824016666666667,Speed,,Metres per second,http://vocab.nerc.ac.uk/collection/S06/current/S0600152/,http://vocab.nerc.ac.uk/collection/P06/current/UVAA/
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,500,Sampling net mesh size,,Micrometres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100015/,http://vocab.nerc.ac.uk/collection/P06/current/UMIC/
+,WS17275:stnLK:500um:2017-10-10T19:15:00Z,microscopy,microscopy,,,http://vocab.nerc.ac.uk/collection/S04/current/S0419/,
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,214.5955,Length of sampling track,,metres,http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,0.5,Sampling device aperture diameter,,metres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100012/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,0.785398163397448,Sampling device aperture surface area,,per square metre,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100017/,http://vocab.nerc.ac.uk/collection/P06/current/PMSQ/
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,0,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,875.9,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,1000,,,milliliter,,
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,200,,,,,
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,,Sub-sampling coefficient,,decimal,http://vocab.nerc.ac.uk/collection/P01/current/SSAMPC01/,
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,0,,,,,
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,42.1357278933393,Sample volume (filtration) by measuring cylinder,,per cubic metre,http://vocab.nerc.ac.uk/collection/P01/current/VOLFMCXX/,http://vocab.nerc.ac.uk/collection/P06/current/PCUM/
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,5,,,milliliter,,
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,8,Sample Duration,,Minutes,http://vocab.nerc.ac.uk/collection/P01/current/AZDRZZ01/,http://vocab.nerc.ac.uk/collection/P06/current/UMIN/
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,1.5,Speed of towing platform,,Knots (nautical miles per hour),http://vocab.nerc.ac.uk/collection/P01/current/TOWSPEED/,http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,0.5,,,,,
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,0.447073958333333,Speed,,Metres per second,http://vocab.nerc.ac.uk/collection/S06/current/S0600152/,http://vocab.nerc.ac.uk/collection/P06/current/UVAA/
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,200,Sampling net mesh size,,Micrometres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100015/,http://vocab.nerc.ac.uk/collection/P06/current/UMIC/
+,WS18008:stnMR:200um:2018-01-09T01:15:00Z,microscopy,microscopy,,,http://vocab.nerc.ac.uk/collection/S04/current/S0419/,
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,247.205,Length of sampling track,,metres,http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,0.5,Sampling device aperture diameter,,metres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100012/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,0.785398163397448,Sampling device aperture surface area,,per square metre,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100017/,http://vocab.nerc.ac.uk/collection/P06/current/PMSQ/
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,0,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,1009,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,450,,,milliliter,,
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,90,,,,,
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,,Sub-sampling coefficient,,decimal,http://vocab.nerc.ac.uk/collection/P01/current/SSAMPC01/,
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,0,,,,,
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,48.5385882456665,Sample volume (filtration) by measuring cylinder,,per cubic metre,http://vocab.nerc.ac.uk/collection/P01/current/VOLFMCXX/,http://vocab.nerc.ac.uk/collection/P06/current/PCUM/
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,5,,,milliliter,,
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,5,Sample Duration,,Minutes,http://vocab.nerc.ac.uk/collection/P01/current/AZDRZZ01/,http://vocab.nerc.ac.uk/collection/P06/current/UMIN/
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,1.5,Speed of towing platform,,Knots (nautical miles per hour),http://vocab.nerc.ac.uk/collection/P01/current/TOWSPEED/,http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,0.5,,,,,
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,0.824016666666667,Speed,,Metres per second,http://vocab.nerc.ac.uk/collection/S06/current/S0600152/,http://vocab.nerc.ac.uk/collection/P06/current/UVAA/
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,500,Sampling net mesh size,,Micrometres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100015/,http://vocab.nerc.ac.uk/collection/P06/current/UMIC/
+,WS18120:stnWS:500um:2018-05-01T16:29:00Z,microscopy,microscopy,,,http://vocab.nerc.ac.uk/collection/S04/current/S0419/,
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,247.205,Length of sampling track,,metres,http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,0.5,Sampling device aperture diameter,,metres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100012/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,0.785398163397448,Sampling device aperture surface area,,per square metre,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100017/,http://vocab.nerc.ac.uk/collection/P06/current/PMSQ/
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,0,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,1009,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,400,,,milliliter,,
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,80,,,,,
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,,Sub-sampling coefficient,,decimal,http://vocab.nerc.ac.uk/collection/P01/current/SSAMPC01/,
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,0,,,,,
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,48.5385882456665,Sample volume (filtration) by measuring cylinder,,per cubic metre,http://vocab.nerc.ac.uk/collection/P01/current/VOLFMCXX/,http://vocab.nerc.ac.uk/collection/P06/current/PCUM/
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,5,,,milliliter,,
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,5,Sample Duration,,Minutes,http://vocab.nerc.ac.uk/collection/P01/current/AZDRZZ01/,http://vocab.nerc.ac.uk/collection/P06/current/UMIN/
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,1.5,Speed of towing platform,,Knots (nautical miles per hour),http://vocab.nerc.ac.uk/collection/P01/current/TOWSPEED/,http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,0.5,,,,,
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,0.824016666666667,Speed,,Metres per second,http://vocab.nerc.ac.uk/collection/S06/current/S0600152/,http://vocab.nerc.ac.uk/collection/P06/current/UVAA/
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,500,Sampling net mesh size,,Micrometres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100015/,http://vocab.nerc.ac.uk/collection/P06/current/UMIC/
+,WS18218:stnMR:500um:2018-08-06T22:45:00Z,microscopy,microscopy,,,http://vocab.nerc.ac.uk/collection/S04/current/S0419/,
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,244.755,Length of sampling track,,metres,http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,0.5,Sampling device aperture diameter,,metres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100012/,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,0.785398163397448,Sampling device aperture surface area,,per square metre,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100017/,http://vocab.nerc.ac.uk/collection/P06/current/PMSQ/
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,0,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,999,flow meters,,,http://vocab.nerc.ac.uk/collection/L05/current/388/,
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,1000,,,milliliter,,
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,200,,,,,
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,2,Sub-sampling coefficient,,decimal,http://vocab.nerc.ac.uk/collection/P01/current/SSAMPC01/,
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,0.25,,,,,
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,48.0575318705856,Sample volume (filtration) by measuring cylinder,,per cubic metre,http://vocab.nerc.ac.uk/collection/P01/current/VOLFMCXX/,http://vocab.nerc.ac.uk/collection/P06/current/PCUM/
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,5,,,milliliter,,
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,2,Sample Duration,,Minutes,http://vocab.nerc.ac.uk/collection/P01/current/AZDRZZ01/,http://vocab.nerc.ac.uk/collection/P06/current/UMIN/
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,1.5,Speed of towing platform,,Knots (nautical miles per hour),http://vocab.nerc.ac.uk/collection/P01/current/TOWSPEED/,http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,0.5,,,,,
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,2.039625,Speed,,Metres per second,http://vocab.nerc.ac.uk/collection/S06/current/S0600152/,http://vocab.nerc.ac.uk/collection/P06/current/UVAA/
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,64,Sampling net mesh size,,Micrometres,http://vocab.nerc.ac.uk/collection/Q01/current/Q0100015/,http://vocab.nerc.ac.uk/collection/P06/current/UMIC/
+,WS19028:stn57:64um:2019-01-31T17:35:00Z,microscopy,microscopy,,,http://vocab.nerc.ac.uk/collection/S04/current/S0419/,
