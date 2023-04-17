@@ -83,7 +83,8 @@ for sheet_name in xl.sheet_names:
 
             # TODO: lat & lon
         )
-        samples = samples.append(subsample, ignore_index=True)
+        # samples = samples.append(subsample, ignore_index=True)
+        samples = pandas.concat([samples, pandas.DataFrame(subsample)], ignore_index=True)
     else:
         print("sheet skipped")
 
