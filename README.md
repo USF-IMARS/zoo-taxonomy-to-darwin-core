@@ -1,3 +1,5 @@
+## ⚠️ Please see newer repo [here](https://github.com/USF-IMARS/mbon_zooplankton_to_dwc) ⚠️
+
 This repo is for processing the Zooplankton data collected from S FL MBON cruises in the FL keys so that it can be published to OBIS as a Darwin Core Archive.
 
 The data is segmented annually.
